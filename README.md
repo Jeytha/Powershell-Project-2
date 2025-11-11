@@ -20,9 +20,7 @@ This repository showcases **end-to-end automation** for system monitoring, netwo
 │   ├── application_logs.csv
 │   ├── top_ips.csv
 │   └── capture.pcap
-└── docs/
-    ├── automation-overview.md
-    └── report-summary.pdf
+
 ```
 
 ---
