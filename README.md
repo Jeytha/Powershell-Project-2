@@ -8,18 +8,35 @@ This repository showcases **end-to-end automation** for system monitoring, netwo
 ## 📁 **Repository Structure**
 
 ```text
+## 📁 **Repository Structure**
+
+```text
 ├── scripts/
 │   ├── network_service_report.py
 │   ├── resource_monitor.py
 │   ├── windows_log_analysis.py
 │   └── network_traffic_analysis.py
+│
 ├── data/
 │   ├── network_service_report.csv
 │   ├── top5_cpu_processes.csv
 │   ├── top5_memory_processes.csv
 │   ├── application_logs.csv
-│   ├── top_ips.csv
-│   └── capture.pcap
+│   ├── log_level_summary.csv
+│   ├── top_log_sources_summary.csv
+│   ├── top5_protocols.csv
+│   ├── top5_source_ips.csv
+│   ├── top5_destination_ips.csv
+│   ├── network_traffic.csv
+│   └── network_traffic.pcapng
+│
+├── charts/
+│   ├── event_log_levels.png
+│   ├── top_log_sources.png
+│   ├── top5_protocols.png
+│   ├── top5_source_ips.png
+│   └── top5_destination_ips.png
+│
 
 ```
 
