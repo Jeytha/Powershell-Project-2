@@ -34,7 +34,7 @@ This repository showcases **end-to-end automation** for system monitoring, netwo
 │   ├── top5_protocols.png
 │   ├── top5_source_ips.png
 │   └── top5_destination_ips.png
-│
+
 ```
 
 ---
@@ -109,6 +109,4 @@ python3 scripts/network_traffic_analysis.py
 | **ISA/IEC 62443** | Continuous Monitoring & Defense-in-Depth |
 | **CIS Controls** | Logging, Monitoring, and Vulnerability Management |
 
----
-Licensed under the **MIT License**.  
-This project is open for academic, research, and educational use with attribution.
+
