@@ -1,0 +1,16 @@
+Hostname,IP,Port,Service
+Windows_Host_1,192.168.90.101,22,ssh
+Windows_Host_1,192.168.90.101,80,http
+Windows_Host_1,192.168.90.101,443,https
+Windows_Host_1,192.168.90.101,445,microsoft-ds
+Windows_Host_1,192.168.90.101,3389,ms-wbt-server
+Windows_Host_2,192.168.90.102,22,ssh
+Windows_Host_2,192.168.90.102,80,http
+Windows_Host_2,192.168.90.102,443,https
+Windows_Host_2,192.168.90.102,445,microsoft-ds
+Windows_Host_2,192.168.90.102,3389,ms-wbt-server
+Linux_Host,192.168.90.103,22,ssh
+Linux_Host,192.168.90.103,80,http
+Linux_Host,192.168.90.103,443,https
+Linux_Host,192.168.90.103,445,microsoft-ds
+Linux_Host,192.168.90.103,3389,ms-wbt-server

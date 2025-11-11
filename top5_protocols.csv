@@ -1,0 +1,6 @@
+Protocol,Count
+TCP,1791
+TLSv1.2,186
+MDNS,33
+UDP,21
+ICMPv6,4

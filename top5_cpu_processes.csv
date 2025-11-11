@@ -1,0 +1,6 @@
+pid,name,cpu_percent,memory_percent
+0,System Idle Process,1987.6,2.424715317205501e-05
+4840,SysInfoCap.exe,26.9,0.4059822091363031
+24824,backgroundTaskHost.exe,26.5,0.13349270178874886
+19616,chrome.exe,14.7,0.49084724523849566
+2288,dwm.exe,9.0,0.8326957342347131
