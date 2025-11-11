@@ -5,9 +5,9 @@ This repository showcases **end-to-end automation** for system monitoring, netwo
 
 ---
 
+## 📁 **Repository Structure**
 
 ```text
-## 📁 **Repository Structure**
 
 ```text
 ├── scripts/
