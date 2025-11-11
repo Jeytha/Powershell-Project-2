@@ -7,7 +7,6 @@ This repository showcases **end-to-end automation** for system monitoring, netwo
 
 ## 📁 **Repository Structure**
 
-```text
 
 ```text
 ├── scripts/
@@ -36,7 +35,6 @@ This repository showcases **end-to-end automation** for system monitoring, netwo
 │   ├── top5_source_ips.png
 │   └── top5_destination_ips.png
 │
-
 ```
 
 ---
