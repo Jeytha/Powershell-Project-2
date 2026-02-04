@@ -1,11 +1,11 @@
 **Python-based automation framework designed for a _conceptual municipal IT environment_ to demonstrate how small teams can automate network, host, and log security operations.**  
 This repository showcases **end-to-end automation** for system monitoring, network discovery, resource tracking, and log analysis for a conceptualised case study.
 
-> **⚠️ Disclaimer:** This project is intended for **educational and authorized use only**. Do **not** deploy or execute on networks or systems without proper authorization.
+> ** Disclaimer:** This project is intended for **educational and authorized use only**. Do **not** deploy or execute on networks or systems without proper authorization.
 
 ---
 
-## 📁 **Repository Structure**
+##  **Repository Structure**
 
 
 ```text
@@ -39,7 +39,7 @@ This repository showcases **end-to-end automation** for system monitoring, netwo
 
 ---
 
-## ⚙️ **Features**
+##  **Features**
 
 ```
 - Automated Network Discovery (via Nmap)
@@ -52,7 +52,7 @@ This repository showcases **end-to-end automation** for system monitoring, netwo
 
 ---
 
-## 🧰 **Prerequisites**
+##  **Prerequisites**
 
 ```bash
 # Python Environment Setup
@@ -75,7 +75,7 @@ pip install nmap psutil pandas matplotlib scapy
 
 ---
 
-## 🚀 **Quick Start**
+##  **Quick Start**
 
 **Step 1 — Clone or download repository**
 ```bash
@@ -100,7 +100,7 @@ python3 scripts/network_traffic_analysis.py
 
 ---
 
-## 🧠 **Framework Alignment**
+##  **Framework Alignment**
 
 | **Framework** | **Alignment Area** |
 |----------------|--------------------|
