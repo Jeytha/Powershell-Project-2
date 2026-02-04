@@ -66,7 +66,7 @@ pip install nmap psutil pandas matplotlib scapy
 
 ---
 
-## 🖥️ **System Requirements**
+##  **System Requirements**
 
 - Windows 10/11 or Linux (Ubuntu 22.04+)
 - Administrator/root privileges (for port scanning & process inspection)
